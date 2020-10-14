@@ -1,0 +1,10 @@
+----------------------- ISA --------------------------
+- implementirati projekat, koji branimo u toku ispitnog roka, krajem februara
+- obaveze su iskobimovane sa PSW-om
+- bekendom za skalabilne aplikacije pravimo ( za znacajan broj korisnika treba da funkcionise sistem )
+
+- predispitne obaveze ne postoje ali ce postojati za PSW, tkd radeci PSW u sustini ces morati raditi i ISU :D
+- sherovati svoj ekran u meatingu na vezbama
+
+- materijal ce biti na teams-u
+- do kraja oktobra dobijamo projektni zadatak, a mi biramo jezik-platformu, oni rade primere u javi
