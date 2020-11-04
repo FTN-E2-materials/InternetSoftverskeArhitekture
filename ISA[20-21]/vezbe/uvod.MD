@@ -4,4 +4,6 @@
   - Napraviti repozitorijum
   - Na repozitorijumu napraviti README gde je detaljno obajsenjeno kako na cistoj masini instalirati i pokrenuti sve sto je potrebno za projekat (verzije biblioteka, alata, operativni sistem itd...)
   
+### Reference 
+  - Materijali za vezbe koji ce se sinkovati redovno : https://github.com/katarinaa94/isa
   
