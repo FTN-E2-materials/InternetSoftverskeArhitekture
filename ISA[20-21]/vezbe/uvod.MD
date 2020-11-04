@@ -1,6 +1,6 @@
 ### TODO 
   - Dogovoriti se u okviru tima koje tehnologije cemo koristiti, trenutno se diskutuje oko Angular ili Vue + Spring ili Spring Boot
-  - Upisati izabranu tehnologiju u google scheet gde smo prijavljivali timove 
+  - Prvo pisati asistentu i pitati ga da li odobrava izabrane tehnologije a zatim upisati izabrane tehnologije u google scheet gde smo prijavljivali timove 
   - Napraviti repozitorijum
   - Na repozitorijumu napraviti README gde je detaljno obajsenjeno kako na cistoj masini instalirati i pokrenuti sve sto je potrebno za projekat (verzije biblioteka, alata, operativni sistem itd...)
   
